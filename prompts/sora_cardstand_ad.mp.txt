@@ -1,0 +1,9 @@
+Title: Snowman World — 3D Print in action (8–12s)
+Look: clean studio table; FDM printer timelapse; product hero at end.
+Subject: Card stand + card case with embossed Lapland AI Lab symbol.
+Motion: subtle camera dolly; printer head movement; reveal hero render.
+Voiceover (FI): ‘Snowman World — korttikotelo ja teline. Tulosta, kokoa, käytä.’
+Audio: soft ambient; subtle printer SFX.
+Must keep: product geometry unchanged; logo visible (emboss + negative cut).
+Source images: use provided PNG renders as references (no geometry morph).
+Ending slate: ‘Lapland AI Lab — Snowman World 3D Print Set v1.0’.

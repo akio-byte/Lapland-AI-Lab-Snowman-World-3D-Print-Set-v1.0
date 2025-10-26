@@ -1,8 +1,9 @@
 # Lapland AI Lab – Snowman World 3D Print Set v1.0
 
-Julkaisupaketti: ohjeet (FI–EN), render-kuvat, videoiden (Sora/Veo 3.1) promptit ja Lovable-sivun kopiot.
-- Docs: `/docs/Guide-FI-EN.md` (PDF-versio Driveen)
-- Videot: promptit `/prompts`
-- Lovable: kopio & asset-manifest `/lovable`
+Release kit for the Snowman World card stand & card case: bilingual guide, render images, video prompts (Sora / Veo 3.1), and Lovable page copy.
 
-Lisenssi: CC BY-NC 4.0 (muokkaa tarpeen mukaan)
+- Docs: [/docs/Guide-FI-EN.md](docs/Guide-FI-EN.md) — export as PDF to Drive for distribution.
+- Video prompts: [/prompts](prompts)
+- Lovable page copy & asset manifest: [/lovable](lovable)
+
+**License:** CC BY-NC 4.0 (edit as needed).
