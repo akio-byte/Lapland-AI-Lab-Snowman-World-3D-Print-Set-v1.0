@@ -1,37 +1,30 @@
-# Snowman World – Hybridikorttipidike v1.0
+# Snowman World 3D Print Set v1.0
 
-📦 **Julkaisupaketti** sisältää 3D-tulostettavan korttikotelon, suojakuoren, alustan ja telineen.  
-Suunniteltu Snowman World -elämykseen. Mukana ohjeet, render-kuvat ja asennusopas .
+This project contains a fully branded hybrid card holder for Snowman World, including:
 
-## 🔧 Sisältö
-## 🧩 Mallit (STL)
-- lid.stl  
-- case_bottom.stl  
-- base.stl  
-- stand.stl  
+- Illuminated top lid
+- Modular printed base + stand
+- Instructional visuals
+- Optimized 3D-printable parts
 
-## 📘 Tulostusohjeet
-- `print-instructions-fi.md`  
-- `print-instructions-en.md`  
+## 📦 Contents
 
-Sisältävät: materiaalit, toleranssit, kerrosasetukset, laiteprofiilit (Bambu Lab P1S, Creator 3)
+- `stand.stl` – Vertical display holder
+- `base.stl` – Tray for modular setup
+- `case_bottom.stl` – Card holder main body
+- `lid.stl` – Glowing top cover
 
-## 🎨 Render-kuvat
-- `assembled-glow.webp` – pääkuva  
-- `exploded-view.webp` – räjäytyskuva  
-- `steps-illustrated.webp` – vaiheittainen koonti  
+## 🛠️ Assembly Instructions
 
-## 🧭 Manifest.json (Lovable yhteensopiva)
-`preview/manifest.json` määrittelee projektin sisällön julkaisualustoille
+1. **Attach** the stand to the base  
+2. **Insert** the card holder into the base  
+3. **Place** the lid on top  
+4. Done! See `preview/images` for step-by-step visuals.
 
-## 🧠 Tietoa
-- Brändätty Snowman World -kokemukseen  
-- Yhteensopiva ID-1-kokoisten korttien kanssa (koko 85.6 × 53.98 mm)  
-- Ei tarvitse tukia – suunniteltu printattavaksi suoraan  
+## 📁 Manifest
 
-## 🔗 Lisenssi
-Creative Commons BY-SA 4.0
+Metadata and visual references: [`preview/manifest.json`](preview/manifest.json)
 
-© Lapland AI Lab / Eduro 2025
+## 🔖 License
 
-
+MIT (or organization-specific as required)
