@@ -1,0 +1,18 @@
+{
+  "title": "Snowman World 3D Print Set",
+  "version": "1.0",
+  "description": "Branded hybrid card holder with illuminated Snowman World logo. Includes all assembly parts and visual instructions.",
+  "components": [
+    { "id": "stand", "name": "Stand", "file": "stand.stl" },
+    { "id": "base", "name": "Base", "file": "base.stl" },
+    { "id": "case", "name": "Case Bottom", "file": "case_bottom.stl" },
+    { "id": "lid", "name": "Lid", "file": "lid.stl" }
+  ],
+  "images": [
+    "images/setup_step1.png",
+    "images/setup_step2.png",
+    "images/setup_step3.png",
+    "images/setup_step4.png"
+  ],
+  "instructions": "Attach the stand to the base. Insert the case into the base. Place the lid on top."
+}
